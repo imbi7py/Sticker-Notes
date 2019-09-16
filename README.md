@@ -1,4 +1,4 @@
-#PyQT stickers note app
+# PyQT stickers note app
 
 ## version 1.0 
 the app allows you to create notes and drag them all over the window
